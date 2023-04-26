@@ -4,6 +4,7 @@
 -export([run/0]).
 
 run() ->
+    io:format("Enter password: ")
     %% Read password from user
     Password = read_password(),
 
