@@ -13,9 +13,10 @@ This repo is for basic level erlang projects
 | Title | Code      |
 | --- |:----------: |
 | WAP to determine whether a number is odd or even in Erlang, you can use the modulo operator %. The modulo operator returns the remainder of a division operation. If a number is divisible by 2 without leaving a remainder, it is even. Otherwise, it is odd. Here's an example function that determines whether a number is odd or even | [Code 1](code001.erl) |
-| WAP which accepts marks of five subjects in an array, and calculates and prints the percentage, highest marks, subject name, and lowest marks | [Code 1](code002.erl) |
-| WAP which accepts a password from the user, stores the password in a file, and verifies it when the user enters it again | [Code 1](code003.erl) |
-| WAP to create CLI Calculator | [Code 1](code004.erl) |
+| WAP which accepts marks of five subjects in an array, and calculates and prints the percentage, highest marks, subject name, and lowest marks | [Code 2](code002.erl) |
+| WAP which accepts a password from the user, stores the password in a file, and verifies it when the user enters it again | [Code 3](code003.erl) |
+| WAP to create CLI Calculator | [Code 4](code004.erl) |
+| WAP to accept grades and print percentage | [Code 5](code005.erl) |
 
 ## Authors
 
