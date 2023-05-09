@@ -17,7 +17,8 @@ This repo is for basic level erlang projects
 | WAP which accepts a password from the user, stores the password in a file, and verifies it when the user enters it again | [Code 3](code003.erl) |
 | WAP to create CLI Calculator | [Code 4](code004.erl) |
 | WAP to accept grades and print percentage | [Code 5](code005.erl) |
-| WAP to multiplication of two matrix and getting the inverse of matrix | [Code6.erl](code006.erl) |
+| WAP to multiplication of two matrix and getting the inverse of matrix | [Code6](code006.erl) |
+| Web server  | [Code7](code007.erl) |
 
 ## Authors
 
