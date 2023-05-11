@@ -10,15 +10,15 @@ This repo is for basic level erlang projects
 
 ## Content
 
-| Title | Code      |
-| --- |:----------: |
-| WAP to determine whether a number is odd or even in Erlang, you can use the modulo operator %. The modulo operator returns the remainder of a division operation. If a number is divisible by 2 without leaving a remainder, it is even. Otherwise, it is odd. Here's an example function that determines whether a number is odd or even | [Code 1](code001.erl) |
-| WAP which accepts marks of five subjects in an array, and calculates and prints the percentage, highest marks, subject name, and lowest marks | [Code 2](code002.erl) |
-| WAP which accepts a password from the user, stores the password in a file, and verifies it when the user enters it again | [Code 3](code003.erl) |
-| WAP to create CLI Calculator | [Code 4](code004.erl) |
-| WAP to accept grades and print percentage | [Code 5](code005.erl) |
-| WAP to multiplication of two matrix and getting the inverse of matrix | [Code6](code006.erl) |
-| Web server  | [Code7](code007.erl) |
+| Day | Title | Code      |
+| --- | --- |:----------: |
+| 1 | WAP to determine whether a number is odd or even in Erlang, you can use the modulo operator %. The modulo operator returns the remainder of a division operation. If a number is divisible by 2 without leaving a remainder, it is even. Otherwise, it is odd. Here's an example function that determines whether a number is odd or even | [Code](code001.erl) |
+| 2 | WAP which accepts marks of five subjects in an array, and calculates and prints the percentage, highest marks, subject name, and lowest marks | [Code](code002.erl) |
+| 3 | WAP which accepts a password from the user, stores the password in a file, and verifies it when the user enters it again | [Code](code003.erl) |
+| 4 | WAP to create CLI Calculator | [Code](code004.erl) |
+| 5 | WAP to accept grades and print percentage | [Code](code005.erl) |
+| 6 | WAP to multiplication of two matrix and getting the inverse of matrix | [Code](code006.erl) |
+| 7 | Web server  | [Code](code007.erl) |
 
 ## Authors
 
