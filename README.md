@@ -19,7 +19,7 @@ This repo is for basic level erlang projects
 | 5 | WAP to accept grades and print percentage | [Code](code005.erl) |
 | 6 | WAP to multiplication of two matrix and getting the inverse of matrix | [Code](code006.erl) |
 | 7 | Web server  | [Code](code007.erl) |
-
+| 8 | Basic log file analyzer program | [Code](code008.erl) |
 ## Authors
 
 *	[@abhineetraj1](https://github.com/abhineetraj1)
